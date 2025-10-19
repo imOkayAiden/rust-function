@@ -1,5 +1,3 @@
-
-
 fn add(a: i32, b: i32) -> i32{
     a + b
 }
@@ -12,5 +10,4 @@ fn main() {
     println!("{}", sum1);
     println!("{}", sum2);
     println!("{}", sum3);
-    
 }
